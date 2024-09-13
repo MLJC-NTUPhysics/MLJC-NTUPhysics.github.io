@@ -21,7 +21,11 @@ share: true
 **Welcome to NTU Physics Machine Learning Journal Club !**
 
 We meet regularly to disscuss the latest research on the application of machine learning in physics. 
-If you want to be added to the mailing list, please register at <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd9WrBvH98tGuK-DjbJMrJpkkpD8fi-kIrTGc7B8fm02HBLmg/viewform?embedded=true" width="640" height="803" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+If you want to be added to the mailing list, please register at [here](https://forms.gle/CF9vitxU85we9vbZ8). 
+
+To suggest papers to discuss, add [here](https://forms.gle/UsUNyQrf6kZDbuWf7).
+
 
 ## Time and Place
 
@@ -35,7 +39,9 @@ If you want to be added to the mailing list, please register at <iframe src="htt
 
 * Sep. 18, Tseng, Sheng-Chieh KAN: [Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) 
 
+* Oct. 10, 
 
+* Oct. 24, 
 
 
 
