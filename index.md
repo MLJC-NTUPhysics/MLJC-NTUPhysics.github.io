@@ -25,7 +25,7 @@ We meet regularly to disscuss the latest research on the application of machine 
 
 * Time: Every other Wendesday at 12:30pm
 
-* Place: T.B.A.
+* Place: RM 618 Physics Building
 
 ## Presentation Schedule
 
