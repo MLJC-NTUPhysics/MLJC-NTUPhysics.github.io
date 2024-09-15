@@ -15,23 +15,35 @@ share: true
 **Welcome to NTU Physics Machine Learning Journal Club !**
 
 We meet regularly to disscuss the latest research on the application of machine learning in physics. 
+
+If you want to be added to the mailing list, please register at [here](https://forms.gle/CF9vitxU85we9vbZ8). 
+
+To suggest papers to discuss, add [here](https://forms.gle/UsUNyQrf6kZDbuWf7).
+
+
 ## Time and Place
 
 * Time: Every other Wendesday at 12:30pm
 
-* Place: T.B.A.
+* Place: RM 618 Physics Building
+
+
 
 ## Presentation Schedule
 
 * Sep. 18, Tseng, Sheng-Chieh KAN: [Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) 
 
+* Oct. 10, 
 
+* Oct. 24, 
 
 
 
 ## Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_grjhden1e5el7888e4hi802av8%40group.calendar.google.com&ctz=Asia%2FTaipei" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 
 ## Organization Committee
 
