@@ -11,12 +11,6 @@ share: true
 ---
 
 
-
-
-
-
-
-
 # Welcome
 **Welcome to NTU Physics Machine Learning Journal Club !**
 
@@ -35,6 +29,7 @@ We meet regularly to disscuss the latest research on the application of machine 
 
 
 
+## Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_grjhden1e5el7888e4hi802av8%40group.calendar.google.com&ctz=Asia%2FTaipei" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
