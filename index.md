@@ -33,9 +33,9 @@ To suggest papers to discuss, add [here](https://forms.gle/UsUNyQrf6kZDbuWf7).
 
 * Sep. 18, Tseng, Sheng-Chieh KAN: [Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) 
 
-* Oct. 10, 
+* Oct. 2, 
 
-* Oct. 24, 
+* Oct. 16, 
 
 
 
