@@ -31,11 +31,11 @@ To suggest papers to discuss, add [here](https://forms.gle/UsUNyQrf6kZDbuWf7).
 
 ## Presentation Schedule
 
-* Sep. 18, Tseng, Sheng-Chieh KAN: [Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) 
+* Sep. 18, Tseng, Sheng-Chieh (NTU) KAN: [Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) 
 
-* Oct. 9,  Dr. Justinas Rumbutis [ Reinforcement learning for bootstrap problem](https://arxiv.org/abs/2108.09330)
+* Oct. 9,  Dr. Justinas Rumbutis (NTU) [ Reinforcement learning for bootstrap problem](https://arxiv.org/abs/2108.09330)
 
-* Oct. 23, 
+* Nov. 13, Mathis Gerdes (UVA) Generative models and physics
 
 
 
